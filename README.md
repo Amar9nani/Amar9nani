@@ -9,13 +9,13 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 
 🛠️ Technical Skills
 
-Programming Languages: Python, Java, C, JavaScript, SQL, TypeScript
+Programming Languages:- Python, Java, C, JavaScript, SQL, TypeScript
 
-Technologies/Frameworks: Angular, React, Spring Boot, Angular.
+Technologies/Frameworks:- Angular, React, Spring Boot, Angular.
 
-Developer Tools: Git, VS Code, Eclipse, Android Studio
+Developer Tools:- Git, VS Code, Eclipse, Android Studio
 
-Areas of Interest: Machine Learning, Distributed Systems, Systems Programming, Web Development, Fullstack Development.
+Areas of Interest:- Machine Learning, Distributed Systems, Systems Programming, Web Development, Fullstack Development.
 
 
 
