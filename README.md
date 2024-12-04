@@ -5,11 +5,14 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 🔭 Current Focus: Enhancing my expertise in distributed systems, machine learning, and web development.
 🌟 Core Strengths: Building scalable applications, optimizing performance, and solving complex challenges.
 🌍 Location: Chennai, India.
-📫 namarnadh.9@gmail.com | LinkedIn
+📫 namarnadh.9@gmail.com | https://linkedin.com/in/nanduri-amarnadh
 🛠️ Technical Skills
 Programming Languages: Python, Java, C, JavaScript, SQL, TypeScript
+
 Technologies/Frameworks: Angular, React, Spring Boot, Angular.
+
 Developer Tools: Git, VS Code, Eclipse, Android Studio
+
 Areas of Interest: Machine Learning, Distributed Systems, Systems Programming, Web Development, Fullstack Development.
 
 
