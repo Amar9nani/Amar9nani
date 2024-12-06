@@ -4,6 +4,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 🚀 About Me
 🔭 Current Focus: Enhancing my expertise in distributed systems, machine learning, and web development, Problem Solving 
 🌟 Core Strengths: Building scalable applications, optimizing performance, and solving complex challenges.
+
 🌍 Location: Chennai, India.
 📫 namarnadh.9@gmail.com | https://www.linkedin.com/in/amarnadh9
 
