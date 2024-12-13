@@ -36,15 +36,12 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 
 ---
 
-## 🌟 **Projects**
-- 🚀 [Project Name](https://github.com/username/project-link) - Description of the project.
-- 📱 [Mobile App](https://github.com/username/project-link) - Description of the app built using Android Studio.
-
----
-
 ## 📈 **GitHub Stats**
 ### My GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=24&include_all_commits=true)
+
+### Contributions in the Last Year
+![Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Amar9nani&layout=compact&theme=radical)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar9nani&layout=compact&theme=radical)
