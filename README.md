@@ -1,12 +1,23 @@
-👋 Hello, I'm Nanduri Venkata Durga Amarnadh
-Welcome to my GitHub! I am a BTech Computer Science student at Bharath Institution of Higher Education and Research with a passion for developing innovative solutions in software Devlopment engineering, machine learning, and full-stack development.
+# 👋 Hello, I'm Nanduri Venkata Durga Amarnadh
 
-🚀 About Me
-🔭 Current Focus: Enhancing my expertise in distributed systems, machine learning, and web development, Problem Solving 
-🌟 Core Strengths: Building scalable applications, optimizing performance, and solving complex challenges.
+Welcome to my GitHub! I am a BTech Computer Science student at Bharath Institution of Higher Education and Research with a passion for developing innovative solutions in **Software Development Engineering**, **Machine Learning**, and **Full-Stack Development**.
 
-🌍 Location: Chennai, India.
-📫 namarnadh.9@gmail.com | https://www.linkedin.com/in/amarnadh9
+---
+
+## 🚀 About Me
+- 🔭 **Current Focus**: Enhancing my expertise in distributed systems, machine learning, and web development, with a strong focus on **Problem Solving**.
+- 🌟 **Core Strengths**: Building scalable applications, optimizing performance, and solving complex challenges.
+
+---
+
+## 🌍 Location
+![Location](https://img.shields.io/badge/Location-Chennai,_India-0077B5?style=for-the-badge&logo=googleearth&logoColor=white)
+
+## 📫 **Contact Me**
+- 📧 [Email: namarnadh.9@gmail.com](mailto:namarnadh.9@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amarnadh9)
+- 📱 [Phone: +91 9154232488](tel:+919154232488)
+
 
 ## 🛠️ **Skills & Tools**
 
