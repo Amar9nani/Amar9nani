@@ -43,8 +43,11 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ---
 
 ## 📈 **GitHub Stats**
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+### My GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar9nani&layout=compact&theme=radical)
 
 ---
 
