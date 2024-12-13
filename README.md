@@ -16,7 +16,6 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ## 📫 **Contact Me**
 - 📧 [Email: namarnadh.9@gmail.com](mailto:namarnadh.9@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amarnadh9)
-- 📱 [Phone: +91 9154232488](tel:+919154232488)
 
 ---
 
