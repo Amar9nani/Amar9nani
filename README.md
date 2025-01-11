@@ -72,8 +72,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ---
 
 ### My Activity Graph
-![Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?username=Amar9nani&layout=compact&theme=radical)
-
+![My Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?username=Amar9nani&theme=radical)
 ---
 
 ### Typing SVG
