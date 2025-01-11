@@ -34,11 +34,24 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 
 ---
 
-### 🌐 **Technologies & Frameworks**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🌐 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+### 🖥️ **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+### 🗄️ **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -51,7 +64,6 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ---
 
 ## 📈 **GitHub Stats**
-### My GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=24&include_all_commits=true)
 
 ---
@@ -62,8 +74,8 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ---
 
 ## 🤝 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnadh9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namarnadh.9@gmail.com)
 
 ---
 
@@ -77,4 +89,3 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ### 💡 "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 Feel free to connect or explore my repositories for exciting projects and collaborations!
-
