@@ -72,11 +72,11 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ---
 
 ### Typing SVG
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;Always+striving+to+improve+myself!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;❤️Always+striving+to+improve+myself!)
 
 ---
 
-### 💡 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+### 💡 "The only limit to our realization of tomorrow is our doubts of today.✨" 
 
 ## 🤝 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnadh9)
@@ -91,6 +91,6 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 
 ---
 
-### 💡 "Code is like humor. When you have to explain it, it’s bad." - Cory House
+### 💡 "Code is like humor. When you have to explain it, it’s bad."💪
 
 Feel free to connect or explore my repositories for exciting projects and collaborations!
