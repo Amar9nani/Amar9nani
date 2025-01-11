@@ -1,4 +1,9 @@
+# My Project
+
+Here is a live action GIF:
+
 ![Live Action GIF](https://amo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)
+
 
 # 👋 Hello, I'm Nanduri Venkata Durga Amarnadh
 
