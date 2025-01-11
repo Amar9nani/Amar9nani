@@ -1,5 +1,6 @@
 ### HELLO 🤍✨
 I'm 👋
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=+Nanduri+Venkata+Durga+Amarnadh)
 
 ![Full Stack Development](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
