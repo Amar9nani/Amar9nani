@@ -1,4 +1,6 @@
-# 👋 ![Hello, I'm Nanduri Venkata Durga Amarnadh](path_to_your_gif.gif)
+### HELLO ❤️
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=Nanduri+Venkata+Durga+Amarnadh)
+
 
 
 Welcome to my GitHub! I am a BTech Computer Science student at Bharath Institution of Higher Education and Research with a passion for developing innovative solutions in **Software Development Engineering**, **Machine Learning**, and **Full-Stack Development**.
