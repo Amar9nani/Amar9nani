@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Nanduri Venkata Durga Amarnadh
+# 👋 ![Hello, I'm Nanduri Venkata Durga Amarnadh](path_to_your_gif.gif)
+
 
 Welcome to my GitHub! I am a BTech Computer Science student at Bharath Institution of Higher Education and Research with a passion for developing innovative solutions in **Software Development Engineering**, **Machine Learning**, and **Full-Stack Development**.
 
