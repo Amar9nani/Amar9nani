@@ -59,9 +59,10 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
-
 ## 📈 **GitHub Stats**
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=24&include_all_commits=true)
+
+### My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=24&include_all_commits=true)
 
 ---
 
@@ -69,6 +70,18 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar9nani&layout=compact&theme=radical)
 
 ---
+
+### My Activity Graph
+![Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?username=Amar9nani&layout=compact&theme=radical)
+
+---
+
+### Typing SVG
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;Always+striving+to+improve+myself!)
+
+---
+
+### 💡 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
 ## 🤝 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnadh9)
