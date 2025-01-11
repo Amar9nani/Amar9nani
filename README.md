@@ -71,10 +71,6 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 
 ---
 
-![My Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?username=<YOUR_WAKATIME_USERNAME>&theme=radical)
-
----
-
 ### Typing SVG
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;Always+striving+to+improve+myself!)
 
