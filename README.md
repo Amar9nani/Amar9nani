@@ -19,9 +19,11 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ## 🌍 Location
 ![Location](https://img.shields.io/badge/Location-Chennai,_India-0077B5?style=for-the-badge&logo=googleearth&logoColor=white)
 
-## 📫 **Contact Me**
-- 📧 [Email: namarnadh.9@gmail.com](mailto:namarnadh.9@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amarnadh9)
+---
+
+## 🤝 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnadh9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namarnadh.9@gmail.com)
 
 ---
 
@@ -85,11 +87,6 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ---
 
 ### 💡 "The only limit to our realization of tomorrow is our doubts of today.✨" 
-
-## 🤝 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnadh9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namarnadh.9@gmail.com)
-
 ---
 
 ## 🏆 **Competitive Programming**
