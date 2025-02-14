@@ -11,8 +11,10 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ---
 
 ## 🚀 About Me
-- 🔭 **Current Focus**: Enhancing my expertise in distributed systems, machine learning, and web development, with a strong focus on **Problem Solving**.
+🔬 Innovator at Heart | Problem-Solver by Passion
+- 🔭 **Current Focus**: 💡 I thrive on building scalable systems, unraveling complex challenges, and pushing the limits of  machine learning, and FullStack development. Whether it's optimizing a high-performance system, crafting elegant algorithms, or designing seamless user experiences, I’m always engineering solutions that make an impact.
 - 🌟 **Core Strengths**: Building scalable applications, optimizing performance, and solving complex challenges.
+- 🔭 **What’s Next?** : I’m on a relentless journey to master system design, AI-driven automation, and cloud-native architectures, solving real-world problems with code that matters. 🚀
 
 ---
 
