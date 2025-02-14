@@ -25,7 +25,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnadh9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namarnadh.9@gmail.com)
 
----## 🛠️ **Tech Stack & Tools**  
+## 🛠️ **Tech Stack & Tools**  
 
 <div align="center">
   
