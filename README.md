@@ -28,53 +28,53 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 ## 🛠️ **Tech Stack & Tools**
 
 <div align="center">
-
-### 🚀 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" width="300" style="animation: bounce 2s infinite;"/>
+  
+### 🚀 **Languages**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" width="300" style="animation: float 3s infinite ease-in-out;"/>
 </p>
 
 ---
 
-### 🎨 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind" width="250" style="animation: glow 1.5s infinite alternate;"/>
+### 🎨 **Frontend**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind" width="250" style="animation: rotate 4s infinite linear;"/>
 </p>
 
 ---
 
-### 🔧 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" width="250" style="animation: fadeIn 1.5s infinite alternate;"/>
+### 🔧 **Backend**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" width="250" style="animation: pulse 2s infinite alternate;"/>
 </p>
 
 ---
 
-### 📦 **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" width="200" style="animation: spin 3s infinite linear;"/>
+### 📦 **Databases**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" width="200" style="animation: bounce 3s infinite ease-in-out;"/>
 </p>
 
 ---
 
-### 🛠️ **Developer Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,androidstudio" width="350" style="animation: bounce 2s infinite;"/>
+### 🛠️ **Developer Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,androidstudio" width="400" style="animation: glow 3s infinite alternate;"/>
 </p>
 
 ---
 
 ### ⚡ **GitHub Stats**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar9nani&theme=radical&hide_border=true&background=0d1117" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar9nani&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### 🔥 **Top Languages**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar9nani&layout=compact&theme=radical&hide_border=true&background=0d1117" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar9nani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
