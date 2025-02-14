@@ -45,7 +45,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
 
 ### 🔧 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" width="250" style="animation: fadeIn 1.5s infinite alternate;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" width="250" style="animation: fadeIn 1.5s infinite alternate;"/>
 </p>
 
 ---
