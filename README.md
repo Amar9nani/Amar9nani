@@ -33,7 +33,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Bharath Instituti
   
 ### 🚀 **Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" width="300" style="animation: float 3s infinite ease-in-out;"/>
+  <img src="https://skillicons.dev/icons?i=python,java,,js,ts,sql" width="300" style="animation: float 3s infinite ease-in-out;"/>
 </p>
 
 ---
