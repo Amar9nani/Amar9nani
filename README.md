@@ -78,10 +78,15 @@ Passionate about pushing the limits of **system architecture, Database managemen
 </p>
 
 
+### ☁️ **Cloud**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" width="250" style="animation: float 3s infinite ease-in-out;"/>
+</p>
+
 
 ### 🛠️ **Developer Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,androidstudio" width="400" style="animation: glow 3s infinite alternate;"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,androidstudio,postman" width="400" style="animation: glow 3s infinite alternate;"/>
 </p>
 
 
@@ -108,9 +113,9 @@ Passionate about pushing the limits of **system architecture, Database managemen
 
 
 ## 🏆 **Competitive Programming**
-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetCode&logoColor=yellow)](https://leetcode.com/u/amarnadh20/)
-- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amar_chef_20)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/namarnadh_9)
+ [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetCode&logoColor=yellow)](https://leetcode.com/u/amarnadh20/)
+ [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amar_chef_20)
+ [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/namarnadh_9)
 
 
 
