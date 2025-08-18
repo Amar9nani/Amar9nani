@@ -1,22 +1,44 @@
 ### HELLO 🤍✨
 I'M 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=+Nanduri+Venkata+Durga+Amarnadh)
+---
 
-![Full Stack Development](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="600"/>
+</p>
 
+<h2 align="center">💻 Who Am I?</h2>
 
-Welcome to my GitHub! I am a BTech Computer Science student at Bharath Institution of Higher Education and Research with a passion for developing innovative solutions in **Software Development Engineering**, **Machine Learning**, and **Full-Stack Development**.
+<p align="center">
+🚀 Software Engineer | Full-Stack Developer | System Design Enthusiast  
+</p>
+
+<p align="center">
+I build **scalable distributed systems**, engineer **high-performance APIs**, and craft **full-stack applications** with a hacker’s mindset.  
+Passionate about pushing the limits of **system architecture, Database management systems**.  
+</p>
 
 ---
 
-## 🚀 About Me
-🔬 Innovator at Heart | Problem-Solver by Passion
-- 🔭 **Current Focus**: 💡 I thrive on building scalable systems, unraveling complex challenges, and pushing the limits of  machine learning, and FullStack development. Whether it's optimizing a high-performance system, crafting elegant algorithms, or designing seamless user experiences, I’m always engineering solutions that make an impact.
-- 🌟 **Core Strengths**: Building scalable applications, optimizing performance, and solving complex challenges.
-- 🔭 **What’s Next?** : I’m on a relentless journey to master system design, AI-driven automation, and cloud-native architectures, solving real-world problems with code that matters. 🚀
+### 🧑‍💻 **Core Engineering Highlights**
+- ⚡ Designed and deployed **50+ REST APIs** handling 10K+ transactions/day with 99.5% uptime.  
+- 🗄️ Architected a **Distributed Document Management System** for 500+ concurrent users with 30% faster response times.  
+- 📦 Built **real-time task management apps** with sub-150ms WebSocket latency.  
+- 🔐 Integrated **JWT authentication, CI/CD pipelines, and caching layers** for enterprise-grade reliability.  
+- 🔍 Optimized databases & data pipelines, achieving **20%+ performance improvements**.  
 
 ---
+
+### 🕶️ **Developer Identity**
+> _"Code is my canvas, architecture is my blueprint, and innovation is my weapon."_  
+
+💡 I solve **hard problems at scale**—from distributed compression systems to high-throughput platforms.  
+🛠️ Skilled in **Java (JDK17), C++, React.js, Node.js, Spring Boot, MySQL, MongoDB**.  
+🔥 Always learning, always shipping.  
+
+---
+
+
 
 ## 🌍 Location
 ![Location](https://img.shields.io/badge/Location-Chennai,_India-0077B5?style=for-the-badge&logo=googleearth&logoColor=white)
