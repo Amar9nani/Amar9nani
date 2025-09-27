@@ -19,7 +19,7 @@ Passionate about pushing the limits of **system architecture, Database managemen
 
 
 ### 🧑‍💻 **Core Engineering Highlights**
-- ⚡ Designed and deployed **50+ REST APIs** handling 10K+ transactions/day with 99.5% uptime.  
+- ⚡ Designed and deployed **100+ REST APIs** handling 10K+ transactions/day with 99.5% uptime.  
 - 🗄️ Architected a **Distributed Document Management System** for 500+ concurrent users with 30% faster response times.  
 - 📦 Built **real-time task management apps** with sub-150ms WebSocket latency.  
 - 🔐 Integrated **JWT authentication, CI/CD pipelines, and caching layers** for enterprise-grade reliability.  
