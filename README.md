@@ -60,7 +60,7 @@ Passionate about pushing the limits of **system architecture, Database managemen
 
 ### 🎨 **Frontend**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind" width="250" style="animation: rotate 4s infinite linear;"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" width="250" style="animation: rotate 4s infinite linear;"/>
 </p>
 
 
