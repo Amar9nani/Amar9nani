@@ -89,33 +89,6 @@ Passionate about pushing the limits of **system architecture, Database managemen
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,docker,androidstudio,postman" width="450"/>
 </p>
 
-
-
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
-    width="48%"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=Amar9nani&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-</p>
-
-
-
-### 🔥 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar9nani&layout=compact&theme=tokyonight&count_private=true&hide_border=true"
-    width="50%"
-  />
-</p>
-
 ### 📈 Contribution Graph
 
 <p align="center">
