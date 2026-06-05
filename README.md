@@ -74,7 +74,7 @@ Passionate about pushing the limits of **system architecture, Database managemen
 
 ### 📦 **Databases**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" width="200" style="animation: bounce 3s infinite ease-in-out;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres" width="200" style="animation: bounce 3s infinite ease-in-out;"/>
 </p>
 
 
