@@ -39,7 +39,7 @@ Passionate about pushing the limits of **system architecture, Database managemen
 
 
 ## 🌍 Location
-![Location](https://img.shields.io/badge/Location-Chennai,_India-0077B5?style=for-the-badge&logo=googleearth&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Vijayawada,_India-0077B5?style=for-the-badge&logo=googleearth&logoColor=white)
 
 
 
